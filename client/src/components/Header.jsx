@@ -24,6 +24,7 @@ const Header = () => {
       <img src={""} alt="Profile" className="w-16 rounded-md" />
 
     </header>
+
   )
 }
 
